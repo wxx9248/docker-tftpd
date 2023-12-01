@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:3.18.5
 LABEL maintainer="wxx9248 <wxx9248@wxx9248.top>"
 
 RUN apk add --update --no-cache tftp-hpa
